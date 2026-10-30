@@ -2,8 +2,8 @@ class Hrdrcfg < Formula
   desc "Open a project's Herdr space from the project's own config"
   homepage "https://github.com/matthewsinclair/hrdrcfg"
   url "https://github.com/matthewsinclair/hrdrcfg.git",
-      tag:      "v0.2.0",
-      revision: "b270075edd4c42801c24785854cf14991774370e"
+      tag: "v0.3.0",
+      revision: "da9c2893d73a460f1c1072907dc266c86e9ac58e"
   license "MIT"
 
   depends_on "jq"
